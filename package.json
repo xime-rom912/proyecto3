@@ -1,0 +1,27 @@
+{
+  "name": "proyecto3",
+  "version": "1.0.0",
+  "description": "Proyecto del tercer parcial de Desarrollo Basado en Plataformas",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xime-rom912/proyecto3.git"
+  },
+  "keywords": [
+    "express",
+    "node"
+  ],
+  "author": "Melissa Garcia, Ximena Romero, Alejandro Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xime-rom912/proyecto3/issues"
+  },
+  "homepage": "https://github.com/xime-rom912/proyecto3#readme"
+}
