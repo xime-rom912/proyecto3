@@ -53,15 +53,13 @@ el cual permite al programa de **ngrok** mostrar nuestro sitio en el puerto 8080
 
 Una vez ejecutado el comando, la pantalla de la terminal cambiará y nos mostrara dos enlaces similares con la unica diferencia siendo que uno es _http_ y el otro es _https_.
 
-![image]()
-
 Copiamos el enlace **https** o **http** e iremos al programa de _Android Studio_ donde abriremos el proyecto de la [aplicación](https://github.com/xime-rom912/proyecto3).
 
 Para que la aplicación pueda funcionar y obtener la información de nuestro servidor de ngrok solo hay que cambiar los enlaces de ngrok dentro del MainActivity.java
 
 Una vez que hagamos ese cambio podremos compilar y correr la aplicación, la cual nos mostrará nuestra pantalla principal:
 
-![image]()
+![image](imagesReadme/menuPrincipal.jpeg)
 
 En la pantalla principal existen 3 botones, los cuales al hacer tap en alguno de ellos nos llevará al curriculum de la persona correspondiente:
 
@@ -71,11 +69,11 @@ En la pantalla principal existen 3 botones, los cuales al hacer tap en alguno de
 
 ### Melissa Garcia
 
-![image]()
+![image](imagesReadme/ximenaCuV.jpeg)
 
 ### Ximena Romero
 
-![image]()
+![image](imagesReadme/ximenaCuV.jpeg)
 
 ## Construido con
 
