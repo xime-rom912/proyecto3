@@ -69,7 +69,7 @@ En la pantalla principal existen 3 botones, los cuales al hacer tap en alguno de
 
 ### Melissa Garcia
 
-![image](imagesReadme/ximenaCuV.jpeg)
+![image](imagesReadme/melissaCuV.jpeg)
 
 ### Ximena Romero
 
