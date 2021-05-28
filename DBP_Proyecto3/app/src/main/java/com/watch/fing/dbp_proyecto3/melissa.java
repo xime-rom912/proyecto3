@@ -28,7 +28,7 @@ public class melissa extends AppCompatActivity {
         final TextView list = findViewById(R.id.textViewList);
 
         RequestQueue queue = Volley.newRequestQueue(this);
-        String url = " http://a013ac743274.ngrok.io/334259";
+        String url = "https://curriculum-vitae-debapla.herokuapp.com/334259";
 
         StringRequest sr = new StringRequest(Request.Method.GET,url,new Response.Listener<String>(){
             @Override
