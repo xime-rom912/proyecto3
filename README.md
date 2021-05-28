@@ -67,7 +67,7 @@ En la pantalla principal existen 3 botones, los cuales al hacer tap en alguno de
 
 ### Alejandro Díaz
 
-![image]()
+![image](imagesReadme/alejandroCuV.jpeg)
 
 ### Melissa Garcia
 
